@@ -1,4 +1,14 @@
 package iocia.network.logs;
 
-public class Main {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Main extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+
+        ILog.initInstance();
+
+    }
+
 }
