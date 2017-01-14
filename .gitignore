@@ -3,3 +3,4 @@
 *.iml
 .idea/artifacts/src_jar.xml
 *.iml
+*.class

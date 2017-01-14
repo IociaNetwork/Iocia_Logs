@@ -1,0 +1,7 @@
+name: Iocia-Logs
+version: 1.0.0
+author: Hunky524
+load: STARTUP
+prefix: Iocia Logs
+
+main: iocia.network.logs.Main
